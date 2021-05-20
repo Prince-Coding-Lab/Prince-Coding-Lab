@@ -1,5 +1,5 @@
 # Prince Kumar
-[![Linkedin Badge](https://img.shields.io/badge/-princekumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-s-25354b1a/)](https://www.linkedin.com/in/prince-s-25354b1a/)
+[![Linkedin Badge](https://img.shields.io/badge/-PrinceKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-s-25354b1a/)](https://www.linkedin.com/in/prince-s-25354b1a/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7803356/prince-kumar)](https://stackoverflow.com/users/7803356/prince-kumar)
 [![Profile Views](https://komarev.com/ghpvc/?username=Prince-Coding-Lab&color=green)](https://medium.com/@princeofficial88)
 
